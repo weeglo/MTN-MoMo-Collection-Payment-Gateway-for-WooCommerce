@@ -17,18 +17,23 @@ Api Secret - MTN live api Key or MTN Sandbox api Key. Generated from you mtn MoM
 AssignedTenantKey - Your Weeglo.io developer/tenant key. Can be generated from your account.
 
 Use the following Youtube link to watch configuration setup:
+
 https://youtu.be/i-61wZPTAiY 
 
 Documentation Page:
+
 https://www.weeglo.io/documentations 
 
 MTN Sandbox User Creator Tool
+
 https://www.weeglo.io/credentials/new 
 
 AssignedTenantKey 
+
 https://www.weeglo.io/tenant_account
 
 Use link to watch configuration setup: 
+
 https://youtu.be/i-61wZPTAiY
 
 == Frequently Asked Questions ==
