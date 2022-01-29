@@ -3,6 +3,7 @@ MTN MoMo Collection Payment Gateway Plugin for WooCommerce
 You can find and download this plugin from Wordpress or download this zip file to install.
 
 == Description ==
+
 Enables MTN MoMo Collection Payment for Wordpress WooCommerce websites. Developed by Weeglo Inc., USA. 
 
 == Installation ==
