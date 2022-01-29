@@ -32,5 +32,6 @@ Use link to watch configuration setup:
 https://youtu.be/i-61wZPTAiY
 
 == Frequently Asked Questions ==
+
 Link to FAQ
 https://www.weeglo.io/documentations 
