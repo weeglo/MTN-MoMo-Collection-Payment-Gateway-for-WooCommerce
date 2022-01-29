@@ -7,6 +7,7 @@ You can find and download this plugin from Wordpress or download this zip file t
 Enables MTN MoMo Collection Payment for Wordpress WooCommerce websites. Developed by Weeglo Inc., USA. 
 
 == Installation ==
+
 Title - your business name
 Mobile - your business phone number
 Subscription  Primary Key - Your MTN Collections Primary Key. Generated from you mtn MoMo developer profile
